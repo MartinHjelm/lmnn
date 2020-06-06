@@ -5,3 +5,4 @@ A fast Python implementation of the Large Margin Nearest Neighbor (LMNN) algorit
 * Add unittest files
 * Refactor.
 * Pull matrix product caching out to an interface file.
+* Add Jupyter Notebook Code demonstration.
